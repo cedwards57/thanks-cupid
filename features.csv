@@ -1,0 +1,20 @@
+feature,desc
+match,target: did they end up matching
+exphappy,user expectation of happiness with speed dating beforehand
+samerace,are the two participants the same race
+hobby_diff_phys,sum of difference between hobby/interest values for physical activities
+hobby_diff_out,sum of difference between hobby/interest values for out-of-house activities
+hobby_diff_in,sum of difference between hobby/interest values for indoor activities
+same_goal,whether both people have the same goal in participating in speed dating
+attr_diff,difference in self-rated amount vs partner's preference in attractiveness
+sinc_diff,difference in self-rated amount vs partner's preference in sincerity
+intel_diff,difference in self-rated amount vs partner's preference in intelligence
+fun_diff,difference in self-rated amount vs partner's preference in fun
+amb_diff,difference in self-rated amount vs partner's preference in ambitiousness
+income_diff,difference between incomes
+age_diff,difference between ages
+same_career,whether both intended career paths fall into the same area
+confidence,percentage of people each person dating expects to be interested in them (avg between partners)
+imprace,importance of having same racial/ethnic background out of 10 (avg between partners)
+date_freq,rating of how often user goes on dates
+out_freq,rating of how often user goes out (not necessarily on dates)
