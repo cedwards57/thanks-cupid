@@ -20,7 +20,8 @@ We reduced the dataset, originally 195 features, to 19 features, many of which w
     - The `data/dataset_adjusted.csv` file is a checkpoint file included for ease of use, as mentioned in `data_processing.ipynb`.
     - `features.csv` is a guide to the reduced set of features.
 - `figs`: contains the graphs output by both Jupyter notebook files.
-- `cupid_scientists_final_report.pdf`: a final report which thoroughly discusses our initial problem, dataset, methods, and outcomes. 
+- `cupid_scientists_final_report.pdf`: a final report which thoroughly discusses our initial problem, dataset, methods, and outcomes.
+    - `final_report.md`: markdown version of the final report.
 - `cupid_scientists_presentation.pdf`: the PowerPoint file used for our final presenation.
 - `data_processing.ipynb`: a Jupyter notebook covering transformations, processing, and feature reduction with our dataset.
 - `modeling.ipynb`: a Jupyter notebook demonstrating our experiments with each machine learning model.
